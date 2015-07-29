@@ -1,5 +1,5 @@
 #
-# Define basic display information
+# NOTE: this method (import_contigset) seems to be obsolete. It has been replaced by import_contigset_fasta_file and import_contigset_fasta_ftp.
 #
 name     : Import Contigs
 subtitle : |
