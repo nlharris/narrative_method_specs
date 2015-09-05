@@ -3,9 +3,9 @@
 #
 name     : View Genome
 subtitle : |
-    View and explore a Genome object in your workspace. [5]
+    View and explore a Genome object, including genes and functional predictions. [5]
 tooltip  : |
-    View and explore a Genome object in your workspace. [5]
+    
 
 screenshots :
     []
@@ -39,8 +39,8 @@ parameters :
 
 
 description : |
-    View and explore a Genome object in your workspace. [5]
+    View and explore a Genome object, including genes and functional predictions.
 
 
 technical-description : |
-    View and explore a Genome object in your workspace. [5]
+    
